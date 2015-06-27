@@ -1,3 +1,9 @@
 [B]1.0.0[/B]
 
 - Initial Release
+
+[B]1.0.1[/B]
+
+- Update textures/xml
+
+- Add blue theme

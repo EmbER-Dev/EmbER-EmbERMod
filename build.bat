@@ -13,8 +13,9 @@ Echo \skin.embermod\media\>>exclude.txt
 Echo exclude.txt>>exclude.txt
 
 ECHO ----------------------------------------
-ECHO Creating XBT File...
+ECHO Creating XBT Files...
 START /B /WAIT ..\..\Tools\TexturePacker\TexturePacker -dupecheck -input media -output ..\..\project\Win32BuildSetup\BUILD_WIN32\application\addons\skin.embermod\media\Textures.xbt
+START /B /WAIT ..\..\Tools\TexturePacker\TexturePacker -dupecheck -input themes\blue -output ..\..\project\Win32BuildSetup\BUILD_WIN32\application\addons\skin.embermod\media\Blue.xbt
 
 ECHO ----------------------------------------
 ECHO XBT Texture Files Created...

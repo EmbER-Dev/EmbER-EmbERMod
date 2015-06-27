@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.embermod"
-  version="1.0.0"
+  version="1.0.1"
   name="EmbERMod"
   provider-name="EmbER Dev, Jezz_X, Team Kodi">
   <requires>
@@ -15,9 +15,9 @@
     <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">EmbERMod by EmbER_Dev. (EmbER's default skin)</summary>
+    <summary lang="en">EmbER's default skin</summary>
     <description lang="en">EmbERMod is the default skin for EmbER, it's a mod of Kodi's default skin Confluence.</description>
-    <disclaimer lang="en">EmbERMod is the default skin for EmbER, removing it may cause issues</disclaimer>
+    <disclaimer lang="en">Removing EmbER's default skin may cause issues.</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
