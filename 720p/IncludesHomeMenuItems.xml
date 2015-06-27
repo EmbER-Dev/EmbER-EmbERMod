@@ -190,6 +190,11 @@
 			<label>5</label>
 			<onclick>ActivateWindow(Settings)</onclick>
 		</control>
+		<control type="button" id="90120">
+			<include>ButtonHomeSubCommonValues</include>
+			<label>[COLOR=white][B]EMB[COLOR=red]|[/COLOR]ER[/B][/COLOR] Settings</label>
+			<onclick>RunAddon(script.system.settings)</onclick>
+		</control>
 		<control type="button" id="90123">
 			<include>ButtonHomeSubCommonValues</include>
 			<label>7</label>
