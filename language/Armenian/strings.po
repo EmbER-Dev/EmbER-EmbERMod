@@ -396,18 +396,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Միացված"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Հիմնական տեսք"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Հիմնական տեսք առանց մեծատառերի"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Arial-հիմքով"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]ՁԵՎԱՎՈՐՄԱՆ ԿԱՐԳԱՎՈՐՈՒՄՆԵՐ[/B][CR][CR]Փոխել տեսքը · Ընտրել լեզուն և տեղայնքը · Փոխել ֆայլերի թերթման հատկությունները[CR]Ընտրել դադարի էկրան"

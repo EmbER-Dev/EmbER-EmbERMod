@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Aktiviert"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Skin-Standard"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Skin-Standard ohne Großbuchstaben"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Arial-basiert"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]KONFIGURIERE DARSTELLUNGSEINSTELLUNGEN[/B][CR][CR]Ändere den Skin · Wähle Sprache und Region · Ändere Dateilistenoptionen[CR]Setze Bildschirmschoner"

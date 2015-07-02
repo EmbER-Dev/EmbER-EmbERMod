@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Geaktifeer"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Standaard tema"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Standaard tema met geen hoofletters"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Antenna gebasseer"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]KONFIGUREER VOORKOMS VERSTELLINGS[/B][CR][CR]Verander die tema · Stel taal en streek · Verander lêer lyste opsies[CR]Stel 'n skermskut op"

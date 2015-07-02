@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Овозможено"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Основен изглед"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Основен изглед со мали букви"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Базирано на Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]КОНФИГУРИРАЊЕ ПОСТАВКИ ЗА ПРИКАЗ[/B][CR][CR]Променете го изгледот · Изберете јазик и област на живеење[CR]Променете опции за прикажување на датотеки · Изберете чувар на екран"

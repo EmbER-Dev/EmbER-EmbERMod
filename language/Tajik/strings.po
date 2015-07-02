@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Фаъол"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Пӯсти пешфарз"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Пӯсти пешфарз бе ҳарфҳои калон"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Дар асоси шрифти Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]ТАНЗИМОТИ НАМУДИ ЗОҲИРӢ[/B][CR][CR]Тағйир додани пӯст • Интихоби забон ва минтақа • Тағйир додани имконоти рӯйхати файлҳо[CR]Танзимоти пардаи экран"

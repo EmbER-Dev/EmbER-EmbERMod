@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Aktiveret"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Skinnets standard"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Skinnets standard uden store bogstaver"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Baseret på Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]KONFIGURER INDSTILLINGER FOR UDSEENDE[/B][CR][CR]Skift skin · Vælg sprog og region · Skift indstillinger for filoversigt[CR]Opsæt en pauseskærm"

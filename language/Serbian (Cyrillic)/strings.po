@@ -300,10 +300,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Омогућено"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Подразумевана маска"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]КОНФИГУРИСАЊЕ ПОСТАВКИ ПРИКАЗА[/B][CR][CR]Промените маску · Изаберите језик и област где живите[CR]Промените опције излиставања датотека · Изаберите чувара екрана"

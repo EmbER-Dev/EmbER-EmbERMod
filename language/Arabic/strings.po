@@ -400,18 +400,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "ممكن"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "الجلد المبدأى"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Skin default with no Caps"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Arial based"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]ضبط إعدادات المظهر[/B][CR][CR]ضبط الجلد · ضبط اللغة والمنطقة · ضبط قوائم الملفات[CR]ضبط شاشة التوقف"

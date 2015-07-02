@@ -1,18 +1,15 @@
-Copyright (C) 2008 The Android Open Source Project
+ ----------------------
+  Ubuntu Font Family
+ ======================
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-  
-     http://www.apache.org/licenses/LICENSE-2.0
-  
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+The Ubuntu Font Family are a set of matching new libre/open fonts in
+development during 2010--2011. The development is being funded by
+Canonical Ltd on behalf the wider Free Software community and the
+Ubuntu project.  The technical font design work and implementation is
+being undertaken by Dalton Maag.
 
-##########
+Both the final font Truetype/OpenType files and the design files used
+to produce the font family are distributed under an open licence and
+you are expressly encouraged to experiment, modify, share and improve.
 
-This directory contains the fonts for the platform. They are licensed
-under the Apache 2 license.
+  http://font.ubuntu.com/

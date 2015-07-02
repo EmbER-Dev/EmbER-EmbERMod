@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Lubatud"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Rüü vaikeväärtus"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Rüü vaikeväärtus ilma suurtähtedeta"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Arial-il põhinev"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]KONFIGUREERI VÄLIMUSE SEADEID[/B][CR][CR]Muuda rüüd · Määra keel ja regioon · Muuda faililoendi valikuid[CR]Seadista ekraanisäästja"

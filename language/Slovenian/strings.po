@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Vključen"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Privzeto"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Privzeto brez velikih začetnic"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]PRILAGODITE NASTAVITVE IZGLEDA[/B][CR][CR]Zamenjajte preobleko · Določite jezik in regijo · Spremenite možnosti seznamov[CR]Nastavite ohranjevalnik zaslona"

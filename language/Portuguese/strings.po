@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Activado"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Padrão do tema"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Padrão do tema sem Caps"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Baseada em Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]CONFIGURAR DEFINIÇÕES DE APARÊNCIA[/B][CR][CR]Mudar de tema · Definir o idioma e a região · Opções de listagem de ficheiros[CR]Definir um protector de ecrã"

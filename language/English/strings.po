@@ -491,18 +491,42 @@ msgstr ""
 #empty strings from id 31363 to 31389
 
 msgctxt "#31390"
-msgid "Skin default"
+msgid "Condensed"
 msgstr ""
 
 msgctxt "#31391"
-msgid "Skin default with no Caps"
+msgid "Light"
 msgstr ""
 
 msgctxt "#31392"
-msgid "Arial based"
+msgid "Light italic"
 msgstr ""
 
-#empty strings from id 31393 to 31399
+msgctxt "#31393"
+msgid "Medium"
+msgstr ""
+
+msgctxt "#31394"
+msgid "Medium italic"
+msgstr ""
+
+msgctxt "#31395"
+msgid "Mono"
+msgstr ""
+
+msgctxt "#31396"
+msgid "Mono italic"
+msgstr ""
+
+msgctxt "#31397"
+msgid "Regular"
+msgstr ""
+
+msgctxt "#31398"
+msgid "Regular italic"
+msgstr ""
+
+#empty strings from id 31399 to 31399
 #Description Labels
 
 msgctxt "#31400"

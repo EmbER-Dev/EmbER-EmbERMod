@@ -424,18 +424,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "ใช้งาน"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "หน้าตาพื้นฐาน"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "ค่าเริ่มต้นของสกิน โดยไม่มีตัวพิมพ์ใหญ่"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "ใช้ฟ้อนท์ Arial"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]ปรับเปลี่ยนค่าการแสดงผล[/B][CR][CR]เปลี่ยนสกิน · ตั้งค่าภูมิภาคและภาษา · เปลี่ยนตัวเลือกการเรียงชื่อไฟล์ [CR] ตั้งค่าถนอมหน้าจอ"

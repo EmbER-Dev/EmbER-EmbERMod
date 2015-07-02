@@ -192,10 +192,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "செயல்படுத்தபட்டுள்ளது"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "இயல்புநிலை அலங்கார அமைப்பு"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]தோற்றம் அமைப்புகள் கட்டமைப்பு[/B][CR][CR]அலங்காரம் மாற்று · மொழி மற்றும் பிராந்தியம் அமைக்க · கோப்பு பட்டியல் விருப்பங்களை மாற்று[CR]திரை காப்பான் அமைக்க"

@@ -408,18 +408,6 @@ msgctxt "#31362"
 msgid "Enabled"
 msgstr "Activat"
 
-msgctxt "#31390"
-msgid "Skin default"
-msgstr "Standard pentru costum"
-
-msgctxt "#31391"
-msgid "Skin default with no Caps"
-msgstr "Standard pentru costum fără majuscule"
-
-msgctxt "#31392"
-msgid "Arial based"
-msgstr "Cu Arial la bază"
-
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
 msgstr "[B]CONFIGURAȚI SETĂRI ASPECT[/B][CR][CR]Schimbați costumul · Alegeți limbă și regiune · Modificați opțiuni de listare fișiere[CR]Alegeți protector ecran"
