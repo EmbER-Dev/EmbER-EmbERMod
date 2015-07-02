@@ -16,6 +16,7 @@ ECHO ----------------------------------------
 ECHO Creating XBT Files...
 START /B /WAIT ..\..\Tools\TexturePacker\TexturePacker -dupecheck -input media -output ..\..\project\Win32BuildSetup\BUILD_WIN32\application\addons\skin.embermod\media\Textures.xbt
 START /B /WAIT ..\..\Tools\TexturePacker\TexturePacker -dupecheck -input themes\blue -output ..\..\project\Win32BuildSetup\BUILD_WIN32\application\addons\skin.embermod\media\Blue.xbt
+START /B /WAIT ..\..\Tools\TexturePacker\TexturePacker -dupecheck -input themes\green -output ..\..\project\Win32BuildSetup\BUILD_WIN32\application\addons\skin.embermod\media\Green.xbt
 
 ECHO ----------------------------------------
 ECHO XBT Texture Files Created...
