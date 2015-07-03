@@ -194,6 +194,7 @@
 			<include>ButtonHomeSubCommonValues</include>
 			<label>[COLOR=white][B]EMB[COLOR=red]|[/COLOR]ER[/B][/COLOR] Settings</label>
 			<onclick>RunAddon(script.system.settings)</onclick>
+			<visible>System.HasAddon(script.system.settings)</visible>
 		</control>
 		<control type="button" id="90123">
 			<include>ButtonHomeSubCommonValues</include>
