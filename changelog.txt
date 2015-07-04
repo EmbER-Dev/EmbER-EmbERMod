@@ -7,3 +7,13 @@
 - Update textures/xml
 
 - Add blue theme
+
+[B]1.0.2[/B]
+
+- Update textures/xml
+
+- Add green theme
+
+- Use Ubuntu fonts
+
+- Make EmbER settings shortcut conditional
