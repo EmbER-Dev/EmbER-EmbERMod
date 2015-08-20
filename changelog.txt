@@ -21,3 +21,11 @@
 [B]1.0.3[/B]
 
 - Merge Confluence 2.7.3 changes
+
+[B]1.0.4[/B]
+
+- Merge Confluence 2.7.4 changes
+
+- Add README
+
+- Add GNU Unifont
