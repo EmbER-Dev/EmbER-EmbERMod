@@ -29,3 +29,7 @@
 - Add README
 
 - Add GNU Unifont
+
+[B]1.0.5[/B]
+
+- Temp patch to maintain compatibility with Helix while Isengard is being finalised
