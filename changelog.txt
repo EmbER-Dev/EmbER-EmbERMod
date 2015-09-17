@@ -1,0 +1,31 @@
+[B]1.0.0[/B]
+
+- Initial Release
+
+[B]1.0.1[/B]
+
+- Update textures/xml
+
+- Add blue theme
+
+[B]1.0.2[/B]
+
+- Update textures/xml
+
+- Add green theme
+
+- Use Ubuntu fonts
+
+- Make EmbER settings shortcut conditional
+
+[B]1.0.3[/B]
+
+- Merge Confluence 2.7.3 changes
+
+[B]1.0.4[/B]
+
+- Merge Confluence 2.7.4 changes
+
+- Add README
+
+- Add GNU Unifont
