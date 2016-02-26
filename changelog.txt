@@ -33,3 +33,7 @@
 [B]1.0.5[/B]
 
 - Merge changes from Kodi 15.2
+
+[B]1.0.6[/B]
+
+- Merge changes from Kodi 16.0
