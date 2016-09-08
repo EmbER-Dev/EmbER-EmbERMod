@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
-	<defaultcontrol always="true">10</defaultcontrol>
+	<defaultcontrol always="true">9</defaultcontrol>
 	<controls>
+		<control type="button" id="9">
+			<description>trigger before first run wizard</description>
+			<texturenofocus>-</texturenofocus>
+			<texturefocus>-</texturefocus>
+			<onfocus condition="!Skin.HasSetting(FirstTimeRun)">Skin.SetBool(FirstTimeRun)</onfocus>
+			<onfocus condition="Skin.HasSetting(FirstTimeRun)">SetFocus(10)</onfocus>
+		</control>
 		<control type="button" id="10">
 			<description>trigger</description>
 			<onfocus>ReplaceWindow($INFO[System.StartupWindow])</onfocus>
@@ -17,6 +24,13 @@
 			<texturefocus>-</texturefocus>
 			<visible>Skin.HasSetting(Use_Startup_Playlist)</visible>
 		</control>
-		<include>CommonBackground</include>
+		<control type="image">
+			<depth>DepthBackground</depth>
+			<description>Normal Default Background Image</description>
+			<include>BackgroundDimensions</include>
+			<aspectratio>scale</aspectratio>
+			<texture fallback="special://xbmc/addons/script.system.settings/fanart.jpg">special://home/addons/script.system.settings/fanart.jpg</texture>
+			<include>VisibleFadeEffect</include>
+		</control>
 	</controls>
 </window>
