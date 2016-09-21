@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <window>
 	<defaultcontrol always="true">9</defaultcontrol>
+	<previouswindow>Home</previouswindow>
 	<controls>
 		<control type="button" id="9">
-			<description>trigger before first run wizard</description>
+			<description>Do we open wizard or homescreen</description>
 			<texturenofocus>-</texturenofocus>
 			<texturefocus>-</texturefocus>
-			<onfocus condition="!Skin.HasSetting(FirstTimeRun)">Skin.SetBool(FirstTimeRun)</onfocus>
+			<onfocus condition="!Skin.HasSetting(FirstTimeRun)">SetFocus(11)</onfocus>
 			<onfocus condition="Skin.HasSetting(FirstTimeRun)">SetFocus(10)</onfocus>
+			<onclick>SetFocus(10)</onclick>
 		</control>
 		<control type="button" id="10">
 			<description>trigger</description>
@@ -24,6 +26,13 @@
 			<texturefocus>-</texturefocus>
 			<visible>Skin.HasSetting(Use_Startup_Playlist)</visible>
 		</control>
+		<control type="button" id="11">
+			<description>trigger before first run wizard</description>
+			<texturenofocus>-</texturenofocus>
+			<texturefocus>-</texturefocus>
+			<onfocus condition="!Skin.HasSetting(FirstTimeRun)">Skin.SetBool(FirstTimeRun)</onfocus>
+			<onclick>SetFocus(10)</onclick>
+		</control>
 		<control type="image">
 			<depth>DepthBackground</depth>
 			<description>Normal Default Background Image</description>
@@ -31,6 +40,82 @@
 			<aspectratio>scale</aspectratio>
 			<texture fallback="special://xbmc/addons/script.system.settings/fanart.jpg">special://home/addons/script.system.settings/fanart.jpg</texture>
 			<include>VisibleFadeEffect</include>
+			<visible>Control.HasFocus(11)</visible>
 		</control>
+		<control type="group">
+			<posx>540</posx>
+			<posy>243</posy>
+			<visible>Control.HasFocus(11)</visible>
+			<control type="image">
+				<description>Busy animation</description>
+				<posx>0</posx>
+				<posy>-10</posy>
+				<width>220</width>
+				<height>220</height>
+				<texture fallback="special://xbmc/addons/script.system.settings/resources/skins/Default/media/animation_static.png">special://home/addons/script.system.settings/resources/skins/Default/media/animation_static.png</texture>
+				<aspectratio>keep</aspectratio>
+			</control>
+			<control type="image">
+				<description>Busy animation</description>
+				<posx>0</posx>
+				<posy>-10</posy>
+				<width>220</width>
+				<height>220</height>
+				<texture fallback="special://xbmc/addons/script.system.settings/resources/skins/Default/media/animation_pulse.png">special://home/addons/script.system.settings/resources/skins/Default/media/animation_pulse.png</texture>
+				<aspectratio>keep</aspectratio>
+				<animation effect="fade" time="1100" start="0" end="100" tween="sine" easing="in" pulse="true" condition="true">conditional</animation>
+			</control>
+			<control type="image">
+				<description>Busy animation</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>220</width>
+				<height>220</height>
+				<texture fallback="special://xbmc/addons/script.system.settings/resources/skins/Default/media/animation_1.png">special://home/addons/script.system.settings/resources/skins/Default/media/animation_1.png</texture>
+				<aspectratio>keep</aspectratio>
+				<animation effect="rotate" start="0" end="360" center="auto" time="2500" loop="true" condition="true">conditional</animation>
+			</control>
+			<control type="image">
+				<description>Busy animation</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>220</width>
+				<height>220</height>
+				<texture fallback="special://xbmc/addons/script.system.settings/resources/skins/Default/media/animation_2.png">special://home/addons/script.system.settings/resources/skins/Default/media/animation_2.png</texture>
+				<aspectratio>keep</aspectratio>
+				<animation effect="rotate" start="0" end="-360" center="auto" time="2500" loop="true" condition="true">conditional</animation>
+			</control>
+			<control type="label">
+				<posx>-40</posx>
+				<posy>225</posy>
+				<description>Please Wait</description>
+				<width>300</width>
+				<height>20</height>
+				<font>font35_title</font>
+				<textcolor>FFFFFFFF</textcolor>
+				<shadowcolor>99000000</shadowcolor>
+				<align>center</align>
+				<aligny>center</aligny>
+				<label>$LOCALIZE[20186]</label>
+				<animation type="WindowOpen">
+					<effect type="fade" start="0" end="100" time="200"/>
+					<effect type="fade" time="1100" delay="20100" start="100" end="0" tween="sine" easing="out"/>
+				</animation>
+			</control>
+			<control type="label">
+				<posx>225</posx>
+				<posy>390</posy>
+				<description>press "OK", or "Back" to cancel</description>
+				<width>620</width>
+				<height>20</height>
+				<font>font28_title</font>
+				<textcolor>FFFFFFFF</textcolor>
+				<shadowcolor>99000000</shadowcolor>
+				<align>left</align>
+				<aligny>center</aligny>
+				<label>$LOCALIZE[12331]...</label>
+				<animation effect="fade" time="1100" delay="21100" start="0" end="100" tween="sine" easing="in">WindowOpen</animation>
+			</control>
+		</control>	
 	</controls>
 </window>
